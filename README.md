@@ -1,7 +1,7 @@
 # About Me
 ## Presentation
-- 👋 Hi, I’m GioCole, a 17 year old boy from Milan.
-- 🌱 I’m currently learning Python, but I want to improve my skills and know other programming languages.
+- 👋 Hi, I’m GioCole, a 18 year old boy from Milan.
+- 🌱 I’m currently learning Python and Java, but I want to improve my skills and know other programming languages.
 
 ## Contacts
 - 📫 **Telegram** » `@GioCole`
@@ -10,7 +10,7 @@
 # My Projects
 ## WarAccademy
 Actually, I'm a staffer on [WarAccademy Network](https://github.com/WarAccademy), one of the biggest italian Minecraft servers.
-I realize different bots and functions for Telegram, Discord, Minecraft and Linux.
+I realize different bots and functions for Telegram, Discord, Minecraft and Linux. I'm starting to create Minecraft plugins.
 ## Telegram
 I'm getting better to code Telegram Bots using [pyTelegramBotAPI Library](https://github.com/eternnoir/pyTelegramBotAPI).
 ### 📔 FastMemo Bot
